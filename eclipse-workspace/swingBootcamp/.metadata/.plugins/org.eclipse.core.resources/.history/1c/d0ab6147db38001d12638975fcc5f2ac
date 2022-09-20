@@ -1,0 +1,16 @@
+package stringsDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String message = "Have a nice day";
+		System.out.println(message);
+		
+		System.out.println("num of elements "+ message.length());
+		System.out.println("5. element: "+ message.charAt(5));
+		System.out.println(message.concat(" Yey!"));
+		System.out.println(message.startsWith("B"));
+	}
+
+}

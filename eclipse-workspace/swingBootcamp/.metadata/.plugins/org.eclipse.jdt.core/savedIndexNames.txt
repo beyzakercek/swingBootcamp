@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/home/beyza/eclipse-workspace/javaBootcamp/.metadata/.plugins/org.eclipse.jdt.core
+381625062.index
+1649145483.index
+1508643396.index
+857627028.index
+3218996978.index
+1355479848.index
+1543846866.index
+3660582280.index
+2555180744.index
+3095999619.index
+1865797976.index
+1163841146.index
+221240953.index
+2954060002.index
+2772675874.index
+689582424.index
+76486220.index
+3218370532.index

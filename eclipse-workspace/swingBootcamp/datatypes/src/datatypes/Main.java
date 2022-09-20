@@ -1,0 +1,12 @@
+package datatypes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double num = 12.5;
+		char a = 'a';
+		boolean isTrue = false;
+		
+	}
+}
